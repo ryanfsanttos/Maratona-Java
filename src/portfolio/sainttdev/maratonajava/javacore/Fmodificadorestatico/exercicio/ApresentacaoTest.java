@@ -1,6 +1,6 @@
 package portfolio.sainttdev.maratonajava.javacore.Fmodificadorestatico.exercicio;
 
-import portfolio.sainttdev.maratonajava.javacore.Fmodificadorestatico.domain.Apresentacao;
+import portfolio.sainttdev.maratonajava.javacore.Fmodificadorestatico.dominio.Apresentacao;
 
 public class ApresentacaoTest {
     public static void main(String[] args) {

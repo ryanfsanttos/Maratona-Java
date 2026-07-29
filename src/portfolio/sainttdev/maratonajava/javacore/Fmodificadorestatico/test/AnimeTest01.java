@@ -1,6 +1,6 @@
 package portfolio.sainttdev.maratonajava.javacore.Fmodificadorestatico.test;
 
-import portfolio.sainttdev.maratonajava.javacore.Fmodificadorestatico.domain.Anime;
+import portfolio.sainttdev.maratonajava.javacore.Fmodificadorestatico.dominio.Anime;
 
 public class AnimeTest01 {
     public static void main(String[] args) {

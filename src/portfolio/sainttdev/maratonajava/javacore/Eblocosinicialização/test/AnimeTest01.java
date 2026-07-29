@@ -1,6 +1,6 @@
 package portfolio.sainttdev.maratonajava.javacore.Eblocosinicialização.test;
 
-import portfolio.sainttdev.maratonajava.javacore.Eblocosinicialização.domain.Anime;
+import portfolio.sainttdev.maratonajava.javacore.Eblocosinicialização.dominio.Anime;
 
 public class AnimeTest01 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package portfolio.sainttdev.maratonajava.javacore.Eblocosinicialização.domain;
+package portfolio.sainttdev.maratonajava.javacore.Eblocosinicialização.dominio;
 
 public class Anime {
     private String nome;

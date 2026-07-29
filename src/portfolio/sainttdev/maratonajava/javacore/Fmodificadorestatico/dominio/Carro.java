@@ -1,4 +1,4 @@
-package portfolio.sainttdev.maratonajava.javacore.Fmodificadorestatico.domain;
+package portfolio.sainttdev.maratonajava.javacore.Fmodificadorestatico.dominio;
 
 public class Carro {
     private String nome;

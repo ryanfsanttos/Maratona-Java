@@ -1,6 +1,6 @@
 package portfolio.sainttdev.maratonajava.javacore.Fmodificadorestatico.test;
 
-import portfolio.sainttdev.maratonajava.javacore.Fmodificadorestatico.domain.Carro;
+import portfolio.sainttdev.maratonajava.javacore.Fmodificadorestatico.dominio.Carro;
 
 public class CarroTest01 {
     public static void main(String[] args) {
