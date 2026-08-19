@@ -15,7 +15,6 @@ public class Pessoa {
         System.out.println("Dentro do bloco de inicialização de pessoa 2");
     }
 
-
     public Pessoa(String nome){
         System.out.println("Dentro do construtor de pessoa");
         this.nome = nome;
